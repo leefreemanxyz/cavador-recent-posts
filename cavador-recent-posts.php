@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Cavador Recent Posts test 2
+Plugin Name: Cavador Recent Posts
 Description: Recent posts plugin to show off the featured image and title of posts – nothing more!
 */
 
